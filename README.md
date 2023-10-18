@@ -22,7 +22,7 @@ Project consists of analyzing a malicious email which is impersonating Walmart. 
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Analysis walk-through:</h2>
 
 <p align="center">
 Malicious Email: <br/>
@@ -31,7 +31,7 @@ Malicious Email: <br/>
 <br />
 First part of my phishing analysis was opening up a virtual box and booting up the good ol' virtual machine of Windows 10. I will be downloading the email and just in case of any accidents occurring, It will burn the virtual machine instead of my OS.
 
-Now I am putting on my Analyzing glasses and viewing the email at hand. What do I notice?
+Now I am putting on my analyzing glasses and viewing the email at hand. What do I notice?
 
 Let's take a look at the Subject line: “You have Won a Vikings Knife Set: CustomerID: 809325. The sender of the email is trying to grasp the attention of the recipient by saying I have won a prize. One red flag I noticed is the the “T” in customer is capitalized. An ID number is also provided in the subject line. 
 
