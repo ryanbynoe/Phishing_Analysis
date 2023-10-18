@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-Project consists of analyzing a malicious email whcih is impersonating Walmart. I walkthrough my thought process and ideal solution.
+Project consists of analyzing a malicious email which is impersonating Walmart. I walkthrough my thought process and ideal solution.
 <br />
 
 
@@ -26,7 +26,7 @@ Project consists of analyzing a malicious email whcih is impersonating Walmart. 
 
 <p align="center">
 Malicious Email: <br/>
-<img src="https://imgur.com/qF94OFb" height="80%" width="80%" alt="Malicious Email"/>
+<img src="https://i.imgur.com/qF94OFb.png" height="80%" width="80%" alt="Malicious Email"/>
 <br />
 <br />
 First part of my phishing analysis was opening up a virtual box and booting up the good ol virtual machine of Windows 10. I will be downloading the email and just in case of any accidents occurring, It will burn the virtual machine instead of my OS.
@@ -61,19 +61,19 @@ The sending address exqngva.mpdlorjr.com isn’t one of the well known addresses
 
 Next I opened the email I downloaded into notepad just to view some more details around the email. I used shortcut CTRL +F and searched for “IP” to find the sender IP address:
 <br/>
-<img src="https://imgur.com/Ijz2R2E" height="80%" width="80%" alt="Report"/>
+<img src="https://i.imgur.com/Ijz2R2E.png" height="80%" width="80%" alt="Report"/>
 <br />
 <br />
 After locating the Sender IP, I went to Whois.com to gather more details around the Senders IP address:  <br/>
-<img src="https://imgur.com/h1U3KGl" height="80%" width="80%" alt="WHOIS"/>
+<img src="https://i.imgur.com/h1U3KGl.png" height="80%" width="80%" alt="WHOIS"/>
 <br />
 <br />
 The host mailing address is rdns.sterly.com.tr:  <br/>
-<img src="https://imgur.com/p6W2ZT6" height="80%" width="80%" alt="Resolve Host/ Host mailing address"/>
+<img src="https://i.imgur.com/p6W2ZT6.png" height="80%" width="80%" alt="Resolve Host/ Host mailing address"/>
 <br />
 <br />
 Used URL2PNG to view the webpage: <br/>
-<img src="https://imgur.com/iqov7NE" height="80%" width="80%" alt="URL2PNG"/>
+<img src="https://i.imgur.com/iqov7NE.png" height="80%" width="80%" alt="URL2PNG"/>
 <br />
 <br />
 </p>
