@@ -29,6 +29,7 @@ Malicious Email: <br/>
 <img src="https://i.imgur.com/qF94OFb.png" height="80%" width="80%" alt="Malicious Email"/>
 <br />
 <br />
+
 First part of my phishing analysis was opening up a virtual box and booting up the good ol' virtual machine of Windows 10. I will be downloading the email and just in case of any accidents occurring, It will burn the virtual machine instead of my OS.
 
 Now I am putting on my analyzing glasses and viewing the email at hand. What do I notice?
