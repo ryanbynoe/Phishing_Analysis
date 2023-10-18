@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-Project consists of analyzing a malicious email which is impersonating Walmart. I walkthrough my thought process and ideal solution.
+Project consists of analyzing a malicious email which is impersonating Walmart. I walkthrough my thought process and how we can see the attachment without placing potential harm to my system.
 <br />
 
 
@@ -29,9 +29,10 @@ Malicious Email: <br/>
 <img src="https://i.imgur.com/qF94OFb.png" height="80%" width="80%" alt="Malicious Email"/>
 <br />
 <br />
-First part of my phishing analysis was opening up a virtual box and booting up the good ol virtual machine of Windows 10. I will be downloading the email and just in case of any accidents occurring, It will burn the virtual machine instead of my OS.
+First part of my phishing analysis was opening up a virtual box and booting up the good ol' virtual machine of Windows 10. I will be downloading the email and just in case of any accidents occurring, It will burn the virtual machine instead of my OS.
 
 Now I am putting on my Analyzing glasses and viewing the email at hand. What do I notice?
+
 Let's take a look at the Subject line: “You have Won a Vikings Knife Set: CustomerID: 809325. The sender of the email is trying to grasp the attention of the recipient by saying I have won a prize. One red flag I noticed is the the “T” in customer is capitalized. An ID number is also provided in the subject line. 
 
 The Contact name says Walmart but the sender address is completely different from the contact name and looks bizarre. 
