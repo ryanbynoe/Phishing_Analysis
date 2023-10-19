@@ -39,7 +39,7 @@ Let's take a look at the Subject line: “You have Won a Vikings Knife Set: Cust
 The Contact name says Walmart but the sender address is completely different from the contact name and looks bizarre. 
 
 The Email date it was sent was 02/20/23 at 12:28 PM and the email contains a Hyperlink titled “Please confirm receipt”
- <br/>
+<br />
 <br />
 <br />
 Artifacts:
